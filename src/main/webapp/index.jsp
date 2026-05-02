@@ -1,4 +1,4 @@
-<html>
+<!-- <html>
 <body>
 <h1>Welcome to Bank</h1>
 <a href="login.jsp">Login</a>
@@ -20,5 +20,19 @@ Password: <input type="password"><br><br>
 <body>
 <h2>Dashboard</h2>
 <p>Balance: ₹50000</p>
+</body>
+</html> -->
+
+<html>
+<head>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<div class="container">
+    <h1>Welcome to Bank</h1>
+    <a href="login.jsp">Go to Login</a>
+</div>
+
 </body>
 </html>
